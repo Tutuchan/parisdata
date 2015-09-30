@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>polygonWGS</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#polygonWGS">
+		<SimpleData name="nomcom">Paris 12ème</SimpleData>
+		<SimpleData name="numdep">75</SimpleData>
+		<SimpleData name="insee">75112</SimpleData>
+		<SimpleData name="shape_leng">21260.5859553</SimpleData>
+		<SimpleData name="shape_area">16185164.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>2.461247496771534,48.818349044057626 2.436690797869694,48.818469713959182 2.429882219759825,48.823357015015937 2.419985643502435,48.824082882511192 2.40329566085689,48.829244098377188 2.390069237832736,48.825696809512529 2.365944019143637,48.844907723861049 2.364320760755927,48.846167205800846 2.369018230803883,48.853225030730094 2.399114284416284,48.848100759308679 2.415973775474602,48.846628365398054 2.413654005120996,48.837227725861368 2.416529888908389,48.834687600232748 2.423034713728125,48.842723452809544 2.427516511861084,48.841575821289297 2.447852027015208,48.844810154677113 2.467245943198051,48.839088269853825 2.465755861466258,48.826283720374327 2.461247496771534,48.818349044057626</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#polygonWGS">
+		<SimpleData name="nomcom">Paris 8ème</SimpleData>
+		<SimpleData name="numdep">75</SimpleData>
+		<SimpleData name="insee">75108</SimpleData>
+		<SimpleData name="shape_leng">7683.65193804</SimpleData>
+		<SimpleData name="shape_area">3853518.50001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>2.320781393695372,48.863078656268783 2.301556199832536,48.86348063063825 2.295145331385797,48.873866476023778 2.301813412942969,48.878869911069337 2.327115254528242,48.883484486689142 2.325754809597833,48.869546095073325 2.320781393695372,48.863078656268783</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#polygonWGS">
+		<SimpleData name="nomcom">Paris 4ème</SimpleData>
+		<SimpleData name="numdep">75</SimpleData>
+		<SimpleData name="insee">75104</SimpleData>
+		<SimpleData name="shape_leng">5316.53005304</SimpleData>
+		<SimpleData name="shape_area">1703035.0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>2.364320760755927,48.846167205800846 2.344559180836944,48.853992902719348 2.350088493587315,48.861955332155013 2.368401725374004,48.855739961952956 2.369018230803883,48.853225030730094 2.364320760755927,48.846167205800846</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#polygonWGS">
+		<SimpleData name="nomcom">Paris 16ème</SimpleData>
+		<SimpleData name="numdep">75</SimpleData>
+		<SimpleData name="insee">75116</SimpleData>
+		<SimpleData name="shape_leng">16762.220646</SimpleData>
+		<SimpleData name="shape_area">16751136.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>2.262784637049641,48.833928727333785 2.253560441074381,48.836857452382709 2.248055951073469,48.846320362868397 2.224224570225081,48.853516053610001 2.22566343769455,48.859407216119635 2.231736346483934,48.86906948087001 2.245698308986733,48.876460996633092 2.255286342223402,48.874353605320451 2.259975318376459,48.880192444581979 2.279946531161416,48.878578503166182 2.295145331385797,48.873866476023778 2.301556199832536,48.86348063063825 2.28978372807637,48.858123146115368 2.262784637049641,48.833928727333785</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#polygonWGS">
+		<SimpleData name="nomcom">Paris 20ème</SimpleData>
+		<SimpleData name="numdep">75</SimpleData>
+		<SimpleData name="insee">75120</SimpleData>
+		<SimpleData name="shape_leng">10510.8160294</SimpleData>
+		<SimpleData name="shape_area">6283412.49999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>2.415973775474602,48.846628365398054 2.399114284416284,48.848100759308679 2.377012647123743,48.87191931652081 2.410694436897898,48.878475126642542 2.41326361312058,48.873118745190126 2.415319163395038,48.855177988140618 2.416339717281656,48.849238273407444 2.415973775474602,48.846628365398054</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#polygonWGS">
+		<SimpleData name="nomcom">Paris 1er</SimpleData>
+		<SimpleData name="numdep">75</SimpleData>
+		<SimpleData name="insee">75101</SimpleData>
+		<SimpleData name="shape_leng">5959.84605843</SimpleData>
+		<SimpleData name="shape_area">1938844.00001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>2.344559180836944,48.853992902719348 2.332852282604382,48.859306333564724 2.320781393695372,48.863078656268783 2.325754809597833,48.869546095073325 2.327877416924423,48.869863809746484 2.350834505477619,48.863344374598334 2.350088493587315,48.861955332155013 2.344559180836944,48.853992902719348</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#polygonWGS">
+		<SimpleData name="nomcom">Paris 10ème</SimpleData>
+		<SimpleData name="numdep">75</SimpleData>
+		<SimpleData name="insee">75110</SimpleData>
+		<SimpleData name="shape_leng">6622.01047532</SimpleData>
+		<SimpleData name="shape_area">2990192.0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>2.363856758565086,48.867434365101474 2.354114163249977,48.869279797001347 2.347826239446091,48.870630685567967 2.349545307310846,48.883626433150596 2.364673564731969,48.884292229428077 2.36929440059686,48.88332740002614 2.377012647123743,48.87191931652081 2.363856758565086,48.867434365101474</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#polygonWGS">
+		<SimpleData name="nomcom">Paris 6ème</SimpleData>
+		<SimpleData name="numdep">75</SimpleData>
+		<SimpleData name="insee">75106</SimpleData>
+		<SimpleData name="shape_leng">6315.24997794</SimpleData>
+		<SimpleData name="shape_area">2130419.0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>2.336591298996422,48.839694126789936 2.324660773025275,48.843521620525912 2.316633528047582,48.846758713667256 2.329309953608924,48.852838166117557 2.332852282604382,48.859306333564724 2.344559180836944,48.853992902719348 2.336591298996422,48.839694126789936</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#polygonWGS">
+		<SimpleData name="nomcom">Paris 5ème</SimpleData>
+		<SimpleData name="numdep">75</SimpleData>
+		<SimpleData name="insee">75105</SimpleData>
+		<SimpleData name="shape_leng">6101.45592829</SimpleData>
+		<SimpleData name="shape_area">2275506.50001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>2.365944019143637,48.844907723861049 2.351573383125465,48.836835351072111 2.34203157233109,48.838303175586574 2.336591298996422,48.839694126789936 2.344559180836944,48.853992902719348 2.364320760755927,48.846167205800846 2.365944019143637,48.844907723861049</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#polygonWGS">
+		<SimpleData name="nomcom">Paris 2ème</SimpleData>
+		<SimpleData name="numdep">75</SimpleData>
+		<SimpleData name="insee">75102</SimpleData>
+		<SimpleData name="shape_leng">4486.91657159</SimpleData>
+		<SimpleData name="shape_area">772477.000003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>2.350834505477619,48.863344374598334 2.327877416924423,48.869863809746484 2.347826239446091,48.870630685567967 2.354114163249977,48.869279797001347 2.350834505477619,48.863344374598334</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#polygonWGS">
+		<SimpleData name="nomcom">Paris 9ème</SimpleData>
+		<SimpleData name="numdep">75</SimpleData>
+		<SimpleData name="insee">75109</SimpleData>
+		<SimpleData name="shape_leng">6274.17765984</SimpleData>
+		<SimpleData name="shape_area">2417002.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>2.325754809597833,48.869546095073325 2.327115254528242,48.883484486689142 2.349545307310846,48.883626433150596 2.347826239446091,48.870630685567967 2.327877416924423,48.869863809746484 2.325754809597833,48.869546095073325</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#polygonWGS">
+		<SimpleData name="nomcom">Paris 13ème</SimpleData>
+		<SimpleData name="numdep">75</SimpleData>
+		<SimpleData name="insee">75113</SimpleData>
+		<SimpleData name="shape_leng">11201.2489508</SimpleData>
+		<SimpleData name="shape_area">7049887.99998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>2.343909438065682,48.815757146101575 2.34203157233109,48.838303175586574 2.351573383125465,48.836835351072111 2.365944019143637,48.844907723861049 2.390069237832736,48.825696809512529 2.364207015719044,48.816397439145817 2.356354375206668,48.815959695907644 2.352867224066928,48.818216311521518 2.343909438065682,48.815757146101575</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#polygonWGS">
+		<SimpleData name="nomcom">Paris 15ème</SimpleData>
+		<SimpleData name="numdep">75</SimpleData>
+		<SimpleData name="insee">75115</SimpleData>
+		<SimpleData name="shape_leng">12513.1948612</SimpleData>
+		<SimpleData name="shape_area">8395037.99999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>2.301320806267096,48.825130289218613 2.289399238300263,48.828351779161508 2.280857987861737,48.831331633566407 2.271928340063522,48.82888525520508 2.267617156346577,48.834201247743522 2.262784637049641,48.833928727333785 2.28978372807637,48.858123146115368 2.307341120736737,48.84770356794504 2.316633528047582,48.846758713667256 2.324660773025275,48.843521620525912 2.301320806267096,48.825130289218613</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#polygonWGS">
+		<SimpleData name="nomcom">Paris 19ème</SimpleData>
+		<SimpleData name="numdep">75</SimpleData>
+		<SimpleData name="insee">75119</SimpleData>
+		<SimpleData name="shape_leng">10878.0289891</SimpleData>
+		<SimpleData name="shape_area">6537599.50001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>2.377012647123743,48.87191931652081 2.36929440059686,48.88332740002614 2.364673564731969,48.884292229428077 2.37127310722005,48.895631547527437 2.370286443740823,48.901651775250755 2.389444302557232,48.901157423250162 2.396499648232947,48.896193002584596 2.398637534206958,48.889413910167875 2.400339329688884,48.883747720324621 2.410694436897898,48.878475126642542 2.377012647123743,48.87191931652081</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#polygonWGS">
+		<SimpleData name="nomcom">Paris 7ème</SimpleData>
+		<SimpleData name="numdep">75</SimpleData>
+		<SimpleData name="insee">75107</SimpleData>
+		<SimpleData name="shape_leng">7777.65830163</SimpleData>
+		<SimpleData name="shape_area">3860700.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>2.316633528047582,48.846758713667256 2.307341120736737,48.84770356794504 2.28978372807637,48.858123146115368 2.301556199832536,48.86348063063825 2.320781393695372,48.863078656268783 2.332852282604382,48.859306333564724 2.329309953608924,48.852838166117557 2.316633528047582,48.846758713667256</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#polygonWGS">
+		<SimpleData name="nomcom">Paris 3ème</SimpleData>
+		<SimpleData name="numdep">75</SimpleData>
+		<SimpleData name="insee">75103</SimpleData>
+		<SimpleData name="shape_leng">4463.32602792</SimpleData>
+		<SimpleData name="shape_area">1080191.0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>2.368401725374004,48.855739961952956 2.350088493587315,48.861955332155013 2.350834505477619,48.863344374598334 2.354114163249977,48.869279797001347 2.363856758565086,48.867434365101474 2.368401725374004,48.855739961952956</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#polygonWGS">
+		<SimpleData name="nomcom">Paris 17ème</SimpleData>
+		<SimpleData name="numdep">75</SimpleData>
+		<SimpleData name="insee">75117</SimpleData>
+		<SimpleData name="shape_leng">10548.5743405</SimpleData>
+		<SimpleData name="shape_area">5757559.49999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>2.295145331385797,48.873866476023778 2.279946531161416,48.878578503166182 2.284458220522186,48.885638370783767 2.303777114032848,48.894151996288322 2.319884458526642,48.900458867339189 2.329983250052526,48.901163297380052 2.327115254528242,48.883484486689142 2.301813412942969,48.878869911069337 2.295145331385797,48.873866476023778</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#polygonWGS">
+		<SimpleData name="nomcom">Paris 11ème</SimpleData>
+		<SimpleData name="numdep">75</SimpleData>
+		<SimpleData name="insee">75111</SimpleData>
+		<SimpleData name="shape_leng">8098.34582562</SimpleData>
+		<SimpleData name="shape_area">3302139.49999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>2.399114284416284,48.848100759308679 2.369018230803883,48.853225030730094 2.368401725374004,48.855739961952956 2.363856758565086,48.867434365101474 2.377012647123743,48.87191931652081 2.399114284416284,48.848100759308679</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#polygonWGS">
+		<SimpleData name="nomcom">Paris 14ème</SimpleData>
+		<SimpleData name="numdep">75</SimpleData>
+		<SimpleData name="insee">75114</SimpleData>
+		<SimpleData name="shape_leng">9895.90600773</SimpleData>
+		<SimpleData name="shape_area">5801581.00001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>2.343909438065682,48.815757146101575 2.33190893200826,48.817012789148606 2.314148423547515,48.822290551056035 2.301320806267096,48.825130289218613 2.324660773025275,48.843521620525912 2.336591298996422,48.839694126789936 2.34203157233109,48.838303175586574 2.343909438065682,48.815757146101575</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#polygonWGS">
+		<SimpleData name="nomcom">Paris 18ème</SimpleData>
+		<SimpleData name="numdep">75</SimpleData>
+		<SimpleData name="insee">75118</SimpleData>
+		<SimpleData name="shape_leng">9713.1398857</SimpleData>
+		<SimpleData name="shape_area">5813451.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>2.327115254528242,48.883484486689142 2.329983250052526,48.901163297380052 2.351872524767704,48.901526565807288 2.365839954946483,48.901610328262414 2.370286443740823,48.901651775250755 2.37127310722005,48.895631547527437 2.364673564731969,48.884292229428077 2.349545307310846,48.883626433150596 2.327115254528242,48.883484486689142</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Schema name="polygonWGS" id="polygonWGS">
+	<SimpleField name="nomcom" type="string"></SimpleField>
+	<SimpleField name="numdep" type="string"></SimpleField>
+	<SimpleField name="insee" type="string"></SimpleField>
+	<SimpleField name="shape_leng" type="string"></SimpleField>
+	<SimpleField name="shape_area" type="string"></SimpleField>
+</Schema>
+</Document></kml>
