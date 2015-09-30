@@ -13,10 +13,13 @@ shinyServer(function(input, output, session) {
       addTiles() %>% 
       addProviderTiles("Acetate.terrain") %>% 
       addPolygons(stroke = TRUE, weight = 2, color = "black", 
-                  fillColor = "blue", smoothFactor = 0.2, fillOpacity = 0.6, popup = ~pop, layerId = 1:20)
+                  fillColor = "blue", smoothFactor = 0.2, fillOpacity = 0.6, popup = ~arrs, layerId = 1:20)
     })
   
   dataClick <- reactive({
+    validate(
+      need(!is.null(input$mainMap_shape_click), "Choisissez un arrondissement.")
+    )
     arr = spPolygons@data$insee[input$mainMap_shape_click$id]-100
     dfDataAccidents %>% filter(cp == arr)
   })
@@ -34,6 +37,7 @@ shinyServer(function(input, output, session) {
       theme_linedraw() + 
       xlab("") + ylab("") + 
       theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1)) + 
-      scale_x_date(breaks = date_breaks("month"), labels = date_format("%m/%Y"))
+      scale_x_date(breaks = date_breaks("month"), 
+                   labels = date_format("%m/%Y"))
   })
 })
